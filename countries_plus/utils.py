@@ -116,7 +116,7 @@ CURRENCY_SYMBOLS = {
     "KZT": "Т",
     "LAK": "₭",
     "LBP": "ل.ل",
-    "LKR": "ரூ",
+    "LKR": "රු",
     "LRD": "$",
     "LSL": "L",
     "LTL": "Lt",
